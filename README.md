@@ -1,4 +1,4 @@
-# ProyectoIV17-18
+# ProyectoIV17-18 [![Build Status](https://travis-ci.org/AntonioAlcM/ProyectoIV17-18.svg?branch=master)](https://travis-ci.org/AntonioAlcM/ProyectoIV17-18)  
 Como proyecto para la asignatura infraestructura virtual, he decido hacer un sistema de alertas. En este sistema tendremos un usuario que podrá crear, borrar y modificar alertas.
 
 Cada alerta contendrá, unas geolocalización, un mensaje explicando el contenido de la alerta, un nivel de amenaza y la fecha de emisión de la alerta.
