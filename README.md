@@ -9,3 +9,8 @@ Servicios y herramientas que se van a usar:
 1. Voy a usar una base de datos NoSQL, porque me interesa que sea escalable.
 2. Voy a usar Python y el framework Flask para programar la aplicación.
 3. Será desplegada en un servidor web en la nube.
+
+## Testeo
+En este proyecto vamos a utilizar la librería unittest, se ha elegido por su amplia gama de funcionalidades.
+## Integración continua
+Como sistema de integración continua he usado travis-ci, se ha elegido travis-ci por su fácil manejo, ademas permite instalar las dependencias requeriments.txt de python de forma automática. Otra ventaja que nos aporta es la posibilidad de ejecutar los test de forma inmediata, cuando se añade nuevas funcionalidades a la clase que se esta testeando.
